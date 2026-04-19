@@ -28,3 +28,7 @@ pnpm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+
+.github/
+.gemini/
+gha-creds-*.json
